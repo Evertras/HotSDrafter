@@ -1,2 +1,0 @@
-/*! hots-counter 2015-05-19 */
-!function(){angular.module("hotsDrafter",["ratingBar","ratingBlock"])}(),function(){var a=angular.module("ratingBar",[]);a.directive("ratingBar",function(){return{templateUrl:"templates/rating-bar.html",scope:{percent:"="}}})}(),function(){var a=angular.module("ratingBlock",["ratingBar"]);a.directive("ratingBlock",function(){return{templateUrl:"templates/rating-block.html",scope:{blockData:"="}}})}();
