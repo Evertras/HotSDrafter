@@ -1,5 +1,5 @@
 node_modules/
 concat.js
-public/js/hotscounter.js
-public/libs
-public/bower_components
+pub/js/hotscounter.js
+pub/libs
+pub/bower_components
