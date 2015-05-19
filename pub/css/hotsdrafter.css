@@ -5,6 +5,11 @@ body {
 	color: #EBF;
 }
 
+h1 {
+	text-align:center;
+	text-transform:uppercase;
+}
+
 /* Rating blocks */
 .rating-block td {
 	padding: 2px 5px;
