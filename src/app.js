@@ -1,3 +1,3 @@
 (function() {
-	var app = angular.module('hotsDrafter', ['ratingBar']);
+	var app = angular.module('hotsDrafter', ['ratingBar', 'ratingBlock']);
 })();

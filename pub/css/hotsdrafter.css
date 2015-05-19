@@ -1,1 +1,46 @@
-/* Todo... */
+/* Main elements */
+body {
+	background-color: #140E24;
+	font-family: Roboto;
+	color: #EBF;
+}
+
+/* Rating blocks */
+.rating-block td {
+	padding: 2px 5px;
+	text-align: center;
+}
+
+/* Rating bars */
+progress {
+	-webkit-appearance: none;
+	-moz-appearance: none;
+	appearance: none;
+	width: 250px;
+	height: 30px;
+	border-radius:15px;
+	border: 1px solid #9955bb;
+	background: none;
+}
+
+progress::-moz-progress-bar {
+	background: -moz-linear-gradient(top, #FFB84D, #FF9900);
+	border-radius:15px;
+}
+
+progress::-webkit-progress-bar {
+	background: none;
+	border-radius:15px;
+}
+
+progress::-webkit-progress-value {
+	border-radius:10px;
+	background: -webkit-gradient(linear, left top, left bottom, color-stop(0%, #FFB84D), color-stop(100%, #FF9900));
+	background: -webkit-linear-gradient(top, #FFB84D, #FF9900);
+}
+
+/* Labels */
+.rating-label {
+	font-size:large;
+	text-transform:uppercase;
+}
