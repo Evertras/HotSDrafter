@@ -15,7 +15,8 @@
 			globalPresence,
 			toughness,
 			initiation,
-			zoneDisplace
+			zoneDisplace,
+			merc
 	) {
 		function validate(value) {
 			if (isNaN(value) || value < 0 || value > 10) {
@@ -39,6 +40,7 @@
 		this.toughness = validate(toughness);
 		this.initiation = validate(initiation);
 		this.zoneDisplace = validate(zoneDisplace);
+		this.merc = validate(merc);
 	};
 
 	var assassin = "Assassin";
@@ -83,7 +85,8 @@
 								7,	// globalPresence,
 								1,	// toughness,
 								3,	// initiation,
-								3	// zoneDisplace
+								3,	// zoneDisplace
+								3	// mercs
 							)
 						);
 
@@ -105,7 +108,8 @@
 								3,	// globalPresence,
 								4,	// toughness,
 								6,	// initiation,
-								8	// zoneDisplace
+								8,	// zoneDisplace
+								3	// mercs
 							)
 						);
 
@@ -127,7 +131,8 @@
 								3,	// globalPresence,
 								4,	// toughness,
 								6,	// initiation,
-								8	// zoneDisplace
+								8,	// zoneDisplace
+								3	// mercs
 							)
 						);
 
@@ -149,7 +154,8 @@
 								3,	// globalPresence,
 								4,	// toughness,
 								6,	// initiation,
-								8	// zoneDisplace
+								8,	// zoneDisplace
+								3	// mercs
 							)
 						);
 
@@ -171,7 +177,8 @@
 								3,	// globalPresence,
 								4,	// toughness,
 								6,	// initiation,
-								8	// zoneDisplace
+								8,	// zoneDisplace
+								3	// mercs
 							)
 						);
 
@@ -193,7 +200,8 @@
 								3,	// globalPresence,
 								4,	// toughness,
 								6,	// initiation,
-								8	// zoneDisplace
+								8,	// zoneDisplace
+								3	// mercs
 							)
 						);
 
@@ -215,7 +223,8 @@
 								3,	// globalPresence,
 								4,	// toughness,
 								6,	// initiation,
-								8	// zoneDisplace
+								8,	// zoneDisplace
+								3	// mercs
 							)
 						);
 
@@ -237,7 +246,8 @@
 								3,	// globalPresence,
 								4,	// toughness,
 								6,	// initiation,
-								8	// zoneDisplace
+								8,	// zoneDisplace
+								3	// mercs
 							)
 						);
 
@@ -259,7 +269,8 @@
 								3,	// globalPresence,
 								4,	// toughness,
 								6,	// initiation,
-								8	// zoneDisplace
+								8,	// zoneDisplace
+								3	// mercs
 							)
 						);
 
@@ -281,7 +292,8 @@
 								3,	// globalPresence,
 								4,	// toughness,
 								6,	// initiation,
-								8	// zoneDisplace
+								8,	// zoneDisplace
+								3	// mercs
 							)
 						);
 
@@ -303,7 +315,8 @@
 								3,	// globalPresence,
 								4,	// toughness,
 								6,	// initiation,
-								8	// zoneDisplace
+								8,	// zoneDisplace
+								3	// mercs
 							)
 						);
 
@@ -325,7 +338,8 @@
 								3,	// globalPresence,
 								4,	// toughness,
 								6,	// initiation,
-								8	// zoneDisplace
+								8,	// zoneDisplace
+								3	// mercs
 							)
 						);
 
@@ -347,7 +361,8 @@
 								3,	// globalPresence,
 								4,	// toughness,
 								6,	// initiation,
-								8	// zoneDisplace
+								8,	// zoneDisplace
+								3	// mercs
 							)
 						);
 
@@ -369,7 +384,8 @@
 								3,	// globalPresence,
 								4,	// toughness,
 								6,	// initiation,
-								8	// zoneDisplace
+								8,	// zoneDisplace
+								3	// mercs
 							)
 						);
 
@@ -391,7 +407,8 @@
 								3,	// globalPresence,
 								4,	// toughness,
 								6,	// initiation,
-								8	// zoneDisplace
+								8,	// zoneDisplace
+								3	// mercs
 							)
 						);
 
@@ -413,7 +430,8 @@
 								3,	// globalPresence,
 								4,	// toughness,
 								6,	// initiation,
-								8	// zoneDisplace
+								8,	// zoneDisplace
+								3	// mercs
 							)
 						);
 
@@ -435,7 +453,8 @@
 								3,	// globalPresence,
 								4,	// toughness,
 								6,	// initiation,
-								8	// zoneDisplace
+								8,	// zoneDisplace
+								3	// mercs
 							)
 						);
 
@@ -457,7 +476,8 @@
 								3,	// globalPresence,
 								4,	// toughness,
 								6,	// initiation,
-								8	// zoneDisplace
+								8,	// zoneDisplace
+								3	// mercs
 							)
 						);
 
@@ -479,7 +499,8 @@
 								3,	// globalPresence,
 								4,	// toughness,
 								6,	// initiation,
-								8	// zoneDisplace
+								8,	// zoneDisplace
+								3	// mercs
 							)
 						);
 
@@ -501,7 +522,8 @@
 								3,	// globalPresence,
 								4,	// toughness,
 								6,	// initiation,
-								8	// zoneDisplace
+								8,	// zoneDisplace
+								3	// mercs
 							)
 						);
 
@@ -523,7 +545,8 @@
 								3,	// globalPresence,
 								4,	// toughness,
 								6,	// initiation,
-								8	// zoneDisplace
+								8,	// zoneDisplace
+								3	// mercs
 							)
 						);
 
@@ -545,7 +568,8 @@
 								3,	// globalPresence,
 								4,	// toughness,
 								6,	// initiation,
-								8	// zoneDisplace
+								8,	// zoneDisplace
+								3	// mercs
 							)
 						);
 
@@ -567,7 +591,8 @@
 								3,	// globalPresence,
 								4,	// toughness,
 								6,	// initiation,
-								8	// zoneDisplace
+								8,	// zoneDisplace
+								3	// mercs
 							)
 						);
 
@@ -589,7 +614,8 @@
 								3,	// globalPresence,
 								4,	// toughness,
 								6,	// initiation,
-								8	// zoneDisplace
+								8,	// zoneDisplace
+								3	// mercs
 							)
 						);
 
@@ -611,7 +637,8 @@
 								3,	// globalPresence,
 								4,	// toughness,
 								6,	// initiation,
-								8	// zoneDisplace
+								8,	// zoneDisplace
+								3	// mercs
 							)
 						);
 
@@ -633,7 +660,8 @@
 								3,	// globalPresence,
 								4,	// toughness,
 								6,	// initiation,
-								8	// zoneDisplace
+								8,	// zoneDisplace
+								3	// mercs
 							)
 						);
 
@@ -655,7 +683,8 @@
 								3,	// globalPresence,
 								4,	// toughness,
 								6,	// initiation,
-								8	// zoneDisplace
+								8,	// zoneDisplace
+								3	// mercs
 							)
 						);
 
@@ -677,7 +706,8 @@
 								3,	// globalPresence,
 								4,	// toughness,
 								6,	// initiation,
-								8	// zoneDisplace
+								8,	// zoneDisplace
+								3	// mercs
 							)
 						);
 
@@ -699,7 +729,8 @@
 								3,	// globalPresence,
 								4,	// toughness,
 								6,	// initiation,
-								8	// zoneDisplace
+								8,	// zoneDisplace
+								3	// mercs
 							)
 						);
 
@@ -721,7 +752,8 @@
 								3,	// globalPresence,
 								4,	// toughness,
 								6,	// initiation,
-								8	// zoneDisplace
+								8,	// zoneDisplace
+								3	// mercs
 							)
 						);
 
@@ -743,7 +775,8 @@
 								3,	// globalPresence,
 								4,	// toughness,
 								6,	// initiation,
-								8	// zoneDisplace
+								8,	// zoneDisplace
+								3	// mercs
 							)
 						);
 
@@ -765,7 +798,8 @@
 								3,	// globalPresence,
 								4,	// toughness,
 								6,	// initiation,
-								8	// zoneDisplace
+								8,	// zoneDisplace
+								3	// mercs
 							)
 						);
 
@@ -787,7 +821,8 @@
 								3,	// globalPresence,
 								4,	// toughness,
 								6,	// initiation,
-								8	// zoneDisplace
+								8,	// zoneDisplace
+								3	// mercs
 							)
 						);
 
@@ -809,7 +844,8 @@
 								3,	// globalPresence,
 								4,	// toughness,
 								6,	// initiation,
-								8	// zoneDisplace
+								8,	// zoneDisplace
+								3	// mercs
 							)
 						);
 
@@ -831,7 +867,8 @@
 								3,	// globalPresence,
 								4,	// toughness,
 								6,	// initiation,
-								8	// zoneDisplace
+								8,	// zoneDisplace
+								3	// mercs
 							)
 						);
 
@@ -853,7 +890,8 @@
 								3,	// globalPresence,
 								4,	// toughness,
 								6,	// initiation,
-								8	// zoneDisplace
+								8,	// zoneDisplace
+								3	// mercs
 							)
 						);
 
