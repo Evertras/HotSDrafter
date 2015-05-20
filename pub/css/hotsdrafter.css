@@ -8,6 +8,36 @@ body {
 h1 {
 	text-align:center;
 	text-transform:uppercase;
+	font-size:150%;
+	margin-top:10px;
+}
+
+h2 {
+	text-align:center;
+	text-transform:uppercase;
+	font-size:125%;
+}
+
+/* Team roster */
+.roster {
+	padding: 5px;
+	padding-bottom:20px;
+	border-radius:5px;
+}
+
+.roster-red {
+	background-color:#880000;
+}
+
+.roster-blue {
+	background-color:#000088;
+}
+
+/* Hero selection */
+.hero-selection {
+	display:inline-block;
+	margin-right:5px;
+	margin-left:5px;
 }
 
 /* Rating blocks */
@@ -22,20 +52,20 @@ progress {
 	-moz-appearance: none;
 	appearance: none;
 	width: 250px;
-	height: 30px;
-	border-radius:15px;
+	height: 20px;
+	border-radius:10px;
 	border: 1px solid #9955bb;
 	background: none;
 }
 
 progress::-moz-progress-bar {
 	background: -moz-linear-gradient(top, #FFB84D, #FF9900);
-	border-radius:15px;
+	border-radius:10px;
 }
 
 progress::-webkit-progress-bar {
 	background: none;
-	border-radius:15px;
+	border-radius:10px;
 }
 
 progress::-webkit-progress-value {
@@ -46,6 +76,6 @@ progress::-webkit-progress-value {
 
 /* Labels */
 .rating-label {
-	font-size:large;
+	font-size:100%;
 	text-transform:uppercase;
 }

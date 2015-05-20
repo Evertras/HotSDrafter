@@ -1,9 +1,17 @@
 (function() {
 	var app = angular.module('hotsDrafter', [
-											'ratingBar',
-											'ratingBlock',
+
+											// Services
 											'heroDataService',
 											'mapDataService',
-											'allHeroes'
+											'teamDataService',
+
+											// Directives
+											'ratingBar',
+											'ratingBlock',
+											'allHeroes',
+											'teamRoster',
+											'heroSelection'
+
 											]);
 })();

@@ -1,0 +1,11 @@
+<div class="roster" ng-class="{ 'roster-red': color === 'Red', 'roster-blue': color === 'Blue' }">
+	<h1>{{color}} Team</h1>
+	<div ng-class="{ 'pull-right': color === 'Blue' }">
+		<hero-selection hero="roster[0]"></hero-selection>
+		<hero-selection hero="roster[1]"></hero-selection>
+		<hero-selection hero="roster[2]"></hero-selection>
+		<hero-selection hero="roster[3]"></hero-selection>
+		<hero-selection hero="roster[4]"></hero-selection>
+	</div>
+	<div class="clearfix"></div>
+</div>
