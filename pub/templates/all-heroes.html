@@ -1,4 +1,12 @@
 <div class="container">
 	<h1 class="col-md-12">All Heroes</h1>
-	<div class="col-md-2" ng-repeat="hero in heroes"><img ng-src="{{hero.smallPortraitUrl}}" alt="{{hero.name}}" src="random_1.png" /></div>
+	<div class="col-md-2" ng-repeat="hero in heroes">
+		<img
+			class="selectable-portrait"
+			src="random_1.png"
+			ng-src="{{hero.smallPortraitUrl}}"
+			alt="{{hero.name}}"
+			ng-mouseover="highlightHero(hero)"
+		/>
+	</div>
 </div>

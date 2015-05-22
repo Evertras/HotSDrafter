@@ -934,9 +934,20 @@
 			zeratul
 		];
 
+		var highlightedHero = null;
+
 		return {
 			getAllHeroData: function () {
 				return heroData;
+			},
+
+			setHighlightedHero: function(hero) {
+				console.log('highlighted: ' + hero.name);
+				highlightedHero = hero;
+			},
+
+			getHighlightedHero: function() {
+				return highlightedHero;
 			}
 		};
 	}]);

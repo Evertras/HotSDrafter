@@ -6,6 +6,10 @@
 			templateUrl: "templates/all-heroes.html",
 			controller: ['heroDataService', '$scope', function(heroDataService, $scope) {
 				$scope.heroes = heroDataService.getAllHeroData();
+
+				$scope.highlightHero = function(hero) {
+					heroDataService.setHighlightedHero(hero);
+				};
 			}]
 		};
 	});

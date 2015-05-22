@@ -11,7 +11,8 @@
 											'ratingBlock',
 											'allHeroes',
 											'teamRoster',
-											'heroSelection'
+											'heroSelection',
+											'heroDetails'
 
 											]);
 })();

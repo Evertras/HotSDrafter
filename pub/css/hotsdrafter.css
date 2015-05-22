@@ -18,6 +18,11 @@ h2 {
 	font-size:125%;
 }
 
+/* For all hero portraits */
+.selectable-portrait {
+	cursor: pointer;
+}
+
 /* Team roster */
 .roster {
 	padding: 5px;
