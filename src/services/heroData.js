@@ -819,7 +819,7 @@
 								6,	// poke,
 								6,	// mobility,
 								1,	// globalPresence,
-								4,	// toughness,
+								6,	// toughness,
 								5,	// initiation,
 								2,	// zoneDisplace
 								6	// mercs
