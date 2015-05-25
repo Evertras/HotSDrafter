@@ -95,21 +95,21 @@
 							melee,
 							warrior,
 							new StatBlock(
-								6,	// sustainedDamage,
-								4,	// burstDamage,
-								10,	// lockdown,
-								3,	// sustainedHeal,
+								7,	// sustainedDamage,
+								5,	// burstDamage,
+								8,	// lockdown,
+								2,	// sustainedHeal,
 								0,	// burstHeal,
-								3,	// shields,
-								3,	// lanePush,
-								7,	// slowRootSilence,
-								3,	// poke,
-								3,	// mobility,
-								3,	// globalPresence,
-								4,	// toughness,
-								6,	// initiation,
-								8,	// zoneDisplace
-								3	// mercs
+								5,	// shields,
+								8,	// lanePush,
+								2,	// slowRootSilence,
+								7,	// poke,
+								4,	// mobility,
+								2,	// globalPresence,
+								6,	// toughness,
+								5,	// initiation,
+								7,	// zoneDisplace
+								7	// mercs
 							)
 						);
 
@@ -118,21 +118,21 @@
 							melee,
 							warrior,
 							new StatBlock(
-								6,	// sustainedDamage,
-								4,	// burstDamage,
-								10,	// lockdown,
-								3,	// sustainedHeal,
-								0,	// burstHeal,
-								3,	// shields,
-								3,	// lanePush,
+								7,	// sustainedDamage,
+								6,	// burstDamage,
+								0,	// lockdown,
+								4,	// sustainedHeal,
+								4,	// burstHeal,
+								2,	// shields,
+								5,	// lanePush,
 								7,	// slowRootSilence,
-								3,	// poke,
-								3,	// mobility,
-								3,	// globalPresence,
-								4,	// toughness,
-								6,	// initiation,
-								8,	// zoneDisplace
-								3	// mercs
+								5,	// poke,
+								4,	// mobility,
+								2,	// globalPresence,
+								7,	// toughness,
+								5,	// initiation,
+								6,	// zoneDisplace
+								6	// mercs
 							)
 						);
 
@@ -141,21 +141,21 @@
 							ranged,
 							specialist,
 							new StatBlock(
-								6,	// sustainedDamage,
-								4,	// burstDamage,
-								10,	// lockdown,
-								3,	// sustainedHeal,
+								8,	// sustainedDamage,
+								6,	// burstDamage,
+								0,	// lockdown,
+								1,	// sustainedHeal,
 								0,	// burstHeal,
-								3,	// shields,
-								3,	// lanePush,
-								7,	// slowRootSilence,
-								3,	// poke,
-								3,	// mobility,
-								3,	// globalPresence,
-								4,	// toughness,
-								6,	// initiation,
-								8,	// zoneDisplace
-								3	// mercs
+								1,	// shields,
+								9,	// lanePush,
+								2,	// slowRootSilence,
+								6,	// poke,
+								5,	// mobility,
+								2,	// globalPresence,
+								6,	// toughness,
+								5,	// initiation,
+								3,	// zoneDisplace
+								7	// mercs
 							)
 						);
 
@@ -164,21 +164,21 @@
 							ranged,
 							support,
 							new StatBlock(
-								6,	// sustainedDamage,
+								4,	// sustainedDamage,
 								4,	// burstDamage,
-								10,	// lockdown,
-								3,	// sustainedHeal,
-								0,	// burstHeal,
-								3,	// shields,
-								3,	// lanePush,
-								7,	// slowRootSilence,
-								3,	// poke,
-								3,	// mobility,
-								3,	// globalPresence,
-								4,	// toughness,
-								6,	// initiation,
-								8,	// zoneDisplace
-								3	// mercs
+								8,	// lockdown,
+								10,	// sustainedHeal,
+								4,	// burstHeal,
+								7,	// shields,
+								6,	// lanePush,
+								8,	// slowRootSilence,
+								7,	// poke,
+								4,	// mobility,
+								10,	// globalPresence,
+								3,	// toughness,
+								3,	// initiation,
+								7,	// zoneDisplace
+								6	// mercs
 							)
 						);
 
@@ -188,20 +188,20 @@
 							warrior,
 							new StatBlock(
 								6,	// sustainedDamage,
-								4,	// burstDamage,
-								10,	// lockdown,
-								3,	// sustainedHeal,
-								0,	// burstHeal,
-								3,	// shields,
-								3,	// lanePush,
-								7,	// slowRootSilence,
-								3,	// poke,
+								3,	// burstDamage,
+								7,	// lockdown,
+								6,	// sustainedHeal,
+								2,	// burstHeal,
+								8,	// shields,
+								6,	// lanePush,
+								5,	// slowRootSilence,
+								2,	// poke,
 								3,	// mobility,
-								3,	// globalPresence,
-								4,	// toughness,
-								6,	// initiation,
-								8,	// zoneDisplace
-								3	// mercs
+								2,	// globalPresence,
+								10,	// toughness,
+								5,	// initiation,
+								7,	// zoneDisplace
+								7	// mercs
 							)
 						);
 
@@ -210,21 +210,21 @@
 							melee,
 							warrior,
 							new StatBlock(
-								6,	// sustainedDamage,
-								4,	// burstDamage,
-								10,	// lockdown,
-								3,	// sustainedHeal,
-								0,	// burstHeal,
-								3,	// shields,
-								3,	// lanePush,
-								7,	// slowRootSilence,
+								8,	// sustainedDamage,
+								5,	// burstDamage,
+								9,	// lockdown,
+								4,	// sustainedHeal,
+								3,	// burstHeal,
+								2,	// shields,
+								7,	// lanePush,
+								4,	// slowRootSilence,
 								3,	// poke,
-								3,	// mobility,
-								3,	// globalPresence,
-								4,	// toughness,
-								6,	// initiation,
+								4,	// mobility,
+								5,	// globalPresence,
+								6,	// toughness,
+								9,	// initiation,
 								8,	// zoneDisplace
-								3	// mercs
+								7	// mercs
 							)
 						);
 
@@ -233,21 +233,21 @@
 							melee,
 							warrior,
 							new StatBlock(
-								6,	// sustainedDamage,
-								4,	// burstDamage,
-								10,	// lockdown,
-								3,	// sustainedHeal,
-								0,	// burstHeal,
-								3,	// shields,
-								3,	// lanePush,
-								7,	// slowRootSilence,
-								3,	// poke,
-								3,	// mobility,
-								3,	// globalPresence,
-								4,	// toughness,
-								6,	// initiation,
-								8,	// zoneDisplace
-								3	// mercs
+								8,	// sustainedDamage,
+								5,	// burstDamage,
+								8,	// lockdown,
+								7,	// sustainedHeal,
+								3,	// burstHeal,
+								2,	// shields,
+								7,	// lanePush,
+								8,	// slowRootSilence,
+								4,	// poke,
+								5,	// mobility,
+								9,	// globalPresence,
+								9,	// toughness,
+								10,	// initiation,
+								9,	// zoneDisplace
+								7	// mercs
 							)
 						);
 
@@ -256,21 +256,21 @@
 							ranged,
 							assassin,
 							new StatBlock(
-								6,	// sustainedDamage,
-								4,	// burstDamage,
-								10,	// lockdown,
+								8,	// sustainedDamage,
+								9,	// burstDamage,
+								0,	// lockdown,
 								3,	// sustainedHeal,
 								0,	// burstHeal,
-								3,	// shields,
-								3,	// lanePush,
-								7,	// slowRootSilence,
-								3,	// poke,
-								3,	// mobility,
-								3,	// globalPresence,
-								4,	// toughness,
-								6,	// initiation,
-								8,	// zoneDisplace
-								3	// mercs
+								2,	// shields,
+								7,	// lanePush,
+								5,	// slowRootSilence,
+								7,	// poke,
+								5,	// mobility,
+								10,	// globalPresence,
+								6,	// toughness,
+								7,	// initiation,
+								6,	// zoneDisplace
+								8	// mercs
 							)
 						);
 
@@ -279,21 +279,21 @@
 							melee,
 							specialist,
 							new StatBlock(
-								6,	// sustainedDamage,
+								7,	// sustainedDamage,
 								4,	// burstDamage,
-								10,	// lockdown,
-								3,	// sustainedHeal,
+								7,	// lockdown,
+								2,	// sustainedHeal,
 								0,	// burstHeal,
-								3,	// shields,
-								3,	// lanePush,
-								7,	// slowRootSilence,
+								0,	// shields,
+								7,	// lanePush,
+								2,	// slowRootSilence,
 								3,	// poke,
-								3,	// mobility,
-								3,	// globalPresence,
-								4,	// toughness,
-								6,	// initiation,
-								8,	// zoneDisplace
-								3	// mercs
+								4,	// mobility,
+								2,	// globalPresence,
+								3,	// toughness,
+								5,	// initiation,
+								5,	// zoneDisplace
+								10	// mercs
 							)
 						);
 
@@ -302,21 +302,21 @@
 							melee,
 							assassin,
 							new StatBlock(
-								6,	// sustainedDamage,
-								4,	// burstDamage,
-								10,	// lockdown,
-								3,	// sustainedHeal,
-								0,	// burstHeal,
-								3,	// shields,
-								3,	// lanePush,
-								7,	// slowRootSilence,
-								3,	// poke,
-								3,	// mobility,
-								3,	// globalPresence,
-								4,	// toughness,
-								6,	// initiation,
-								8,	// zoneDisplace
-								3	// mercs
+								10,	// sustainedDamage,
+								8,	// burstDamage,
+								0,	// lockdown,
+								8,	// sustainedHeal,
+								1,	// burstHeal,
+								8,	// shields,
+								8,	// lanePush,
+								5,	// slowRootSilence,
+								6,	// poke,
+								7,	// mobility,
+								5,	// globalPresence,
+								2,	// toughness,
+								8,	// initiation,
+								2,	// zoneDisplace
+								10	// mercs
 							)
 						);
 
@@ -325,21 +325,21 @@
 							ranged,
 							assassin,
 							new StatBlock(
-								6,	// sustainedDamage,
-								4,	// burstDamage,
-								10,	// lockdown,
-								3,	// sustainedHeal,
+								5,	// sustainedDamage,
+								10,	// burstDamage,
+								0,	// lockdown,
+								0,	// sustainedHeal,
 								0,	// burstHeal,
-								3,	// shields,
-								3,	// lanePush,
-								7,	// slowRootSilence,
-								3,	// poke,
-								3,	// mobility,
-								3,	// globalPresence,
-								4,	// toughness,
-								6,	// initiation,
+								1,	// shields,
+								8,	// lanePush,
+								10,	// slowRootSilence,
+								10,	// poke,
+								5,	// mobility,
+								2,	// globalPresence,
+								3,	// toughness,
+								7,	// initiation,
 								8,	// zoneDisplace
-								3	// mercs
+								8	// mercs
 							)
 						);
 
@@ -349,20 +349,20 @@
 							assassin,
 							new StatBlock(
 								6,	// sustainedDamage,
-								4,	// burstDamage,
-								10,	// lockdown,
-								3,	// sustainedHeal,
+								9,	// burstDamage,
+								7,	// lockdown,
+								1,	// sustainedHeal,
 								0,	// burstHeal,
-								3,	// shields,
-								3,	// lanePush,
-								7,	// slowRootSilence,
-								3,	// poke,
+								1,	// shields,
+								7,	// lanePush,
+								0,	// slowRootSilence,
+								9,	// poke,
 								3,	// mobility,
-								3,	// globalPresence,
-								4,	// toughness,
-								6,	// initiation,
+								2,	// globalPresence,
+								3,	// toughness,
+								4,	// initiation,
 								8,	// zoneDisplace
-								3	// mercs
+								6	// mercs
 							)
 						);
 
@@ -371,21 +371,21 @@
 							melee,
 							assassin,
 							new StatBlock(
-								6,	// sustainedDamage,
-								4,	// burstDamage,
-								10,	// lockdown,
-								3,	// sustainedHeal,
+								7,	// sustainedDamage,
+								8,	// burstDamage,
+								7,	// lockdown,
+								0,	// sustainedHeal,
 								0,	// burstHeal,
-								3,	// shields,
-								3,	// lanePush,
-								7,	// slowRootSilence,
-								3,	// poke,
-								3,	// mobility,
-								3,	// globalPresence,
-								4,	// toughness,
-								6,	// initiation,
-								8,	// zoneDisplace
-								3	// mercs
+								5,	// shields,
+								7,	// lanePush,
+								2,	// slowRootSilence,
+								6,	// poke,
+								5,	// mobility,
+								2,	// globalPresence,
+								5,	// toughness,
+								5,	// initiation,
+								3,	// zoneDisplace
+								7	// mercs
 							)
 						);
 
@@ -394,21 +394,21 @@
 							ranged,
 							support,
 							new StatBlock(
-								6,	// sustainedDamage,
-								4,	// burstDamage,
-								10,	// lockdown,
-								3,	// sustainedHeal,
-								0,	// burstHeal,
-								3,	// shields,
+								3,	// sustainedDamage,
+								1,	// burstDamage,
+								0,	// lockdown,
+								8,	// sustainedHeal,
+								4,	// burstHeal,
+								1,	// shields,
 								3,	// lanePush,
-								7,	// slowRootSilence,
+								2,	// slowRootSilence,
 								3,	// poke,
-								3,	// mobility,
-								3,	// globalPresence,
-								4,	// toughness,
-								6,	// initiation,
-								8,	// zoneDisplace
-								3	// mercs
+								6,	// mobility,
+								2,	// globalPresence,
+								2,	// toughness,
+								4,	// initiation,
+								2,	// zoneDisplace
+								5	// mercs
 							)
 						);
 
@@ -418,20 +418,20 @@
 							specialist,
 							new StatBlock(
 								6,	// sustainedDamage,
-								4,	// burstDamage,
-								10,	// lockdown,
-								3,	// sustainedHeal,
+								7,	// burstDamage,
+								0,	// lockdown,
+								4,	// sustainedHeal,
 								0,	// burstHeal,
-								3,	// shields,
-								3,	// lanePush,
-								7,	// slowRootSilence,
-								3,	// poke,
-								3,	// mobility,
-								3,	// globalPresence,
-								4,	// toughness,
-								6,	// initiation,
-								8,	// zoneDisplace
-								3	// mercs
+								5,	// shields,
+								7,	// lanePush,
+								0,	// slowRootSilence,
+								5,	// poke,
+								6,	// mobility,
+								8,	// globalPresence,
+								2,	// toughness,
+								3,	// initiation,
+								7,	// zoneDisplace
+								7	// mercs
 							)
 						);
 
@@ -440,21 +440,21 @@
 							ranged,
 							support,
 							new StatBlock(
-								6,	// sustainedDamage,
+								3,	// sustainedDamage,
 								4,	// burstDamage,
-								10,	// lockdown,
-								3,	// sustainedHeal,
-								0,	// burstHeal,
-								3,	// shields,
-								3,	// lanePush,
-								7,	// slowRootSilence,
-								3,	// poke,
-								3,	// mobility,
-								3,	// globalPresence,
+								0,	// lockdown,
+								8,	// sustainedHeal,
+								6,	// burstHeal,
+								2,	// shields,
+								4,	// lanePush,
+								8,	// slowRootSilence,
+								5,	// poke,
+								4,	// mobility,
+								2,	// globalPresence,
 								4,	// toughness,
-								6,	// initiation,
-								8,	// zoneDisplace
-								3	// mercs
+								5,	// initiation,
+								4,	// zoneDisplace
+								5	// mercs
 							)
 						);
 
@@ -463,21 +463,21 @@
 							melee,
 							warrior,
 							new StatBlock(
-								6,	// sustainedDamage,
-								4,	// burstDamage,
-								10,	// lockdown,
-								3,	// sustainedHeal,
-								0,	// burstHeal,
+								7,	// sustainedDamage,
+								6,	// burstDamage,
+								9,	// lockdown,
+								5,	// sustainedHeal,
+								1,	// burstHeal,
 								3,	// shields,
-								3,	// lanePush,
-								7,	// slowRootSilence,
-								3,	// poke,
-								3,	// mobility,
-								3,	// globalPresence,
-								4,	// toughness,
-								6,	// initiation,
-								8,	// zoneDisplace
-								3	// mercs
+								6,	// lanePush,
+								8,	// slowRootSilence,
+								6,	// poke,
+								4,	// mobility,
+								2,	// globalPresence,
+								6,	// toughness,
+								7,	// initiation,
+								5,	// zoneDisplace
+								7	// mercs
 							)
 						);
 
@@ -486,21 +486,21 @@
 							melee,
 							specialist,
 							new StatBlock(
-								6,	// sustainedDamage,
+								3,	// sustainedDamage,
 								4,	// burstDamage,
-								10,	// lockdown,
-								3,	// sustainedHeal,
-								0,	// burstHeal,
-								3,	// shields,
-								3,	// lanePush,
-								7,	// slowRootSilence,
-								3,	// poke,
-								3,	// mobility,
-								3,	// globalPresence,
-								4,	// toughness,
+								7,	// lockdown,
+								5,	// sustainedHeal,
+								1,	// burstHeal,
+								8,	// shields,
+								6,	// lanePush,
+								5,	// slowRootSilence,
+								8,	// poke,
+								7,	// mobility,
+								4,	// globalPresence,
+								1,	// toughness,
 								6,	// initiation,
-								8,	// zoneDisplace
-								3	// mercs
+								6,	// zoneDisplace
+								7	// mercs
 							)
 						);
 
@@ -509,21 +509,21 @@
 							ranged,
 							specialist,
 							new StatBlock(
-								6,	// sustainedDamage,
-								4,	// burstDamage,
-								10,	// lockdown,
-								3,	// sustainedHeal,
+								7,	// sustainedDamage,
+								5,	// burstDamage,
+								0,	// lockdown,
+								2,	// sustainedHeal,
 								0,	// burstHeal,
-								3,	// shields,
-								3,	// lanePush,
-								7,	// slowRootSilence,
-								3,	// poke,
-								3,	// mobility,
-								3,	// globalPresence,
-								4,	// toughness,
-								6,	// initiation,
-								8,	// zoneDisplace
-								3	// mercs
+								1,	// shields,
+								6,	// lanePush,
+								2,	// slowRootSilence,
+								5,	// poke,
+								5,	// mobility,
+								2,	// globalPresence,
+								5,	// toughness,
+								5,	// initiation,
+								7,	// zoneDisplace
+								7	// mercs
 							)
 						);
 
@@ -532,21 +532,21 @@
 							ranged,
 							assassin,
 							new StatBlock(
-								6,	// sustainedDamage,
-								4,	// burstDamage,
-								10,	// lockdown,
-								3,	// sustainedHeal,
+								2,	// sustainedDamage,
+								8,	// burstDamage,
+								1,	// lockdown,
+								0,	// sustainedHeal,
 								0,	// burstHeal,
-								3,	// shields,
-								3,	// lanePush,
-								7,	// slowRootSilence,
+								1,	// shields,
+								2,	// lanePush,
+								4,	// slowRootSilence,
 								3,	// poke,
-								3,	// mobility,
-								3,	// globalPresence,
-								4,	// toughness,
+								7,	// mobility,
+								6,	// globalPresence,
+								2,	// toughness,
 								6,	// initiation,
-								8,	// zoneDisplace
-								3	// mercs
+								6,	// zoneDisplace
+								4	// mercs
 							)
 						);
 
@@ -555,21 +555,21 @@
 							ranged,
 							assassin,
 							new StatBlock(
-								6,	// sustainedDamage,
-								4,	// burstDamage,
-								10,	// lockdown,
-								3,	// sustainedHeal,
-								0,	// burstHeal,
-								3,	// shields,
-								3,	// lanePush,
-								7,	// slowRootSilence,
-								3,	// poke,
-								3,	// mobility,
-								3,	// globalPresence,
+								8,	// sustainedDamage,
+								6,	// burstDamage,
+								6,	// lockdown,
+								2,	// sustainedHeal,
+								5,	// burstHeal,
+								0,	// shields,
+								6,	// lanePush,
+								1,	// slowRootSilence,
+								6,	// poke,
+								6,	// mobility,
+								2,	// globalPresence,
 								4,	// toughness,
-								6,	// initiation,
-								8,	// zoneDisplace
-								3	// mercs
+								4,	// initiation,
+								6,	// zoneDisplace
+								7	// mercs
 							)
 						);
 
@@ -580,19 +580,19 @@
 							new StatBlock(
 								6,	// sustainedDamage,
 								4,	// burstDamage,
-								10,	// lockdown,
-								3,	// sustainedHeal,
-								0,	// burstHeal,
-								3,	// shields,
-								3,	// lanePush,
-								7,	// slowRootSilence,
-								3,	// poke,
-								3,	// mobility,
-								3,	// globalPresence,
-								4,	// toughness,
-								6,	// initiation,
-								8,	// zoneDisplace
-								3	// mercs
+								0,	// lockdown,
+								8,	// sustainedHeal,
+								10,	// burstHeal,
+								4,	// shields,
+								4,	// lanePush,
+								4,	// slowRootSilence,
+								2,	// poke,
+								5,	// mobility,
+								4,	// globalPresence,
+								6,	// toughness,
+								4,	// initiation,
+								4,	// zoneDisplace
+								6	// mercs
 							)
 						);
 
@@ -601,21 +601,21 @@
 							ranged,
 							specialist,
 							new StatBlock(
-								6,	// sustainedDamage,
+								7,	// sustainedDamage,
 								4,	// burstDamage,
-								10,	// lockdown,
-								3,	// sustainedHeal,
+								1,	// lockdown,
+								1,	// sustainedHeal,
 								0,	// burstHeal,
-								3,	// shields,
-								3,	// lanePush,
-								7,	// slowRootSilence,
-								3,	// poke,
-								3,	// mobility,
-								3,	// globalPresence,
+								0,	// shields,
+								5,	// lanePush,
+								0,	// slowRootSilence,
+								4,	// poke,
+								1,	// mobility,
+								2,	// globalPresence,
 								4,	// toughness,
-								6,	// initiation,
-								8,	// zoneDisplace
-								3	// mercs
+								1,	// initiation,
+								4,	// zoneDisplace
+								7	// mercs
 							)
 						);
 
@@ -624,21 +624,21 @@
 							melee,
 							warrior,
 							new StatBlock(
-								6,	// sustainedDamage,
-								4,	// burstDamage,
-								10,	// lockdown,
+								7,	// sustainedDamage,
+								8,	// burstDamage,
+								6,	// lockdown,
 								3,	// sustainedHeal,
-								0,	// burstHeal,
-								3,	// shields,
-								3,	// lanePush,
-								7,	// slowRootSilence,
-								3,	// poke,
-								3,	// mobility,
-								3,	// globalPresence,
-								4,	// toughness,
+								1,	// burstHeal,
+								0,	// shields,
+								7,	// lanePush,
+								2,	// slowRootSilence,
+								4,	// poke,
+								6,	// mobility,
+								2,	// globalPresence,
+								6,	// toughness,
 								6,	// initiation,
-								8,	// zoneDisplace
-								3	// mercs
+								1,	// zoneDisplace
+								9	// mercs
 							)
 						);
 
@@ -647,21 +647,21 @@
 							melee,
 							warrior,
 							new StatBlock(
-								6,	// sustainedDamage,
+								3,	// sustainedDamage,
 								4,	// burstDamage,
-								10,	// lockdown,
-								3,	// sustainedHeal,
+								3,	// lockdown,
+								0,	// sustainedHeal,
 								0,	// burstHeal,
-								3,	// shields,
-								3,	// lanePush,
-								7,	// slowRootSilence,
-								3,	// poke,
-								3,	// mobility,
-								3,	// globalPresence,
-								4,	// toughness,
-								6,	// initiation,
+								0,	// shields,
+								4,	// lanePush,
+								6,	// slowRootSilence,
+								4,	// poke,
+								4,	// mobility,
+								1,	// globalPresence,
+								6,	// toughness,
+								7,	// initiation,
 								8,	// zoneDisplace
-								3	// mercs
+								6	// mercs
 							)
 						);
 
@@ -670,21 +670,21 @@
 							ranged,
 							specialist,
 							new StatBlock(
-								6,	// sustainedDamage,
-								4,	// burstDamage,
-								10,	// lockdown,
+								7,	// sustainedDamage,
+								5,	// burstDamage,
+								0,	// lockdown,
 								3,	// sustainedHeal,
 								0,	// burstHeal,
-								3,	// shields,
-								3,	// lanePush,
-								7,	// slowRootSilence,
-								3,	// poke,
-								3,	// mobility,
-								3,	// globalPresence,
+								0,	// shields,
+								10,	// lanePush,
+								10,	// slowRootSilence,
+								8,	// poke,
+								8,	// mobility,
+								2,	// globalPresence,
 								4,	// toughness,
-								6,	// initiation,
-								8,	// zoneDisplace
-								3	// mercs
+								2,	// initiation,
+								2,	// zoneDisplace
+								7	// mercs
 							)
 						);
 
@@ -693,21 +693,21 @@
 							ranged,
 							support,
 							new StatBlock(
-								6,	// sustainedDamage,
-								4,	// burstDamage,
-								10,	// lockdown,
+								5,	// sustainedDamage,
+								6,	// burstDamage,
+								0,	// lockdown,
 								3,	// sustainedHeal,
-								0,	// burstHeal,
-								3,	// shields,
-								3,	// lanePush,
-								7,	// slowRootSilence,
-								3,	// poke,
-								3,	// mobility,
-								3,	// globalPresence,
-								4,	// toughness,
-								6,	// initiation,
-								8,	// zoneDisplace
-								3	// mercs
+								1,	// burstHeal,
+								10,	// shields,
+								5,	// lanePush,
+								2,	// slowRootSilence,
+								6,	// poke,
+								8,	// mobility,
+								2,	// globalPresence,
+								3,	// toughness,
+								3,	// initiation,
+								4,	// zoneDisplace
+								6	// mercs
 							)
 						);
 
@@ -716,21 +716,21 @@
 							melee,
 							assassin,
 							new StatBlock(
-								6,	// sustainedDamage,
-								4,	// burstDamage,
-								10,	// lockdown,
-								3,	// sustainedHeal,
+								7,	// sustainedDamage,
+								7,	// burstDamage,
+								7,	// lockdown,
+								0,	// sustainedHeal,
 								0,	// burstHeal,
-								3,	// shields,
-								3,	// lanePush,
+								0,	// shields,
+								7,	// lanePush,
 								7,	// slowRootSilence,
-								3,	// poke,
-								3,	// mobility,
-								3,	// globalPresence,
-								4,	// toughness,
-								6,	// initiation,
-								8,	// zoneDisplace
-								3	// mercs
+								6,	// poke,
+								6,	// mobility,
+								1,	// globalPresence,
+								8,	// toughness,
+								5,	// initiation,
+								2,	// zoneDisplace
+								7	// mercs
 							)
 						);
 
@@ -739,21 +739,21 @@
 							ranged,
 							assassin,
 							new StatBlock(
-								6,	// sustainedDamage,
-								4,	// burstDamage,
-								10,	// lockdown,
-								3,	// sustainedHeal,
-								0,	// burstHeal,
-								3,	// shields,
-								3,	// lanePush,
-								7,	// slowRootSilence,
-								3,	// poke,
-								3,	// mobility,
-								3,	// globalPresence,
-								4,	// toughness,
-								6,	// initiation,
-								8,	// zoneDisplace
-								3	// mercs
+								7,	// sustainedDamage,
+								7,	// burstDamage,
+								0,	// lockdown,
+								1,	// sustainedHeal,
+								2,	// burstHeal,
+								2,	// shields,
+								7,	// lanePush,
+								3,	// slowRootSilence,
+								7,	// poke,
+								6,	// mobility,
+								1,	// globalPresence,
+								6,	// toughness,
+								5,	// initiation,
+								6,	// zoneDisplace
+								8	// mercs
 							)
 						);
 
@@ -762,21 +762,21 @@
 							melee,
 							warrior,
 							new StatBlock(
-								6,	// sustainedDamage,
-								4,	// burstDamage,
-								10,	// lockdown,
-								3,	// sustainedHeal,
-								0,	// burstHeal,
-								3,	// shields,
-								3,	// lanePush,
+								8,	// sustainedDamage,
+								5,	// burstDamage,
+								8,	// lockdown,
+								4,	// sustainedHeal,
+								3,	// burstHeal,
+								6,	// shields,
+								5,	// lanePush,
 								7,	// slowRootSilence,
-								3,	// poke,
-								3,	// mobility,
-								3,	// globalPresence,
-								4,	// toughness,
-								6,	// initiation,
+								5,	// poke,
+								9,	// mobility,
+								4,	// globalPresence,
+								6,	// toughness,
+								9,	// initiation,
 								8,	// zoneDisplace
-								3	// mercs
+								7	// mercs
 							)
 						);
 
@@ -786,20 +786,20 @@
 							support,
 							new StatBlock(
 								6,	// sustainedDamage,
-								4,	// burstDamage,
-								10,	// lockdown,
-								3,	// sustainedHeal,
-								0,	// burstHeal,
-								3,	// shields,
-								3,	// lanePush,
-								7,	// slowRootSilence,
-								3,	// poke,
-								3,	// mobility,
-								3,	// globalPresence,
+								7,	// burstDamage,
+								7,	// lockdown,
+								2,	// sustainedHeal,
+								5,	// burstHeal,
+								2,	// shields,
+								5,	// lanePush,
+								6,	// slowRootSilence,
+								6,	// poke,
+								5,	// mobility,
+								4,	// globalPresence,
 								4,	// toughness,
-								6,	// initiation,
-								8,	// zoneDisplace
-								3	// mercs
+								5,	// initiation,
+								6,	// zoneDisplace
+								6	// mercs
 							)
 						);
 
@@ -808,21 +808,21 @@
 							melee,
 							support,
 							new StatBlock(
-								6,	// sustainedDamage,
-								4,	// burstDamage,
-								10,	// lockdown,
-								3,	// sustainedHeal,
-								0,	// burstHeal,
-								3,	// shields,
-								3,	// lanePush,
-								7,	// slowRootSilence,
-								3,	// poke,
-								3,	// mobility,
-								3,	// globalPresence,
+								5,	// sustainedDamage,
+								6,	// burstDamage,
+								7,	// lockdown,
+								8,	// sustainedHeal,
+								9,	// burstHeal,
+								7,	// shields,
+								4,	// lanePush,
+								2,	// slowRootSilence,
+								6,	// poke,
+								6,	// mobility,
+								1,	// globalPresence,
 								4,	// toughness,
-								6,	// initiation,
-								8,	// zoneDisplace
-								3	// mercs
+								5,	// initiation,
+								2,	// zoneDisplace
+								6	// mercs
 							)
 						);
 
@@ -831,21 +831,21 @@
 							ranged,
 							assassin,
 							new StatBlock(
-								6,	// sustainedDamage,
+								10,	// sustainedDamage,
 								4,	// burstDamage,
-								10,	// lockdown,
-								3,	// sustainedHeal,
+								2,	// lockdown,
+								1,	// sustainedHeal,
 								0,	// burstHeal,
-								3,	// shields,
-								3,	// lanePush,
-								7,	// slowRootSilence,
-								3,	// poke,
-								3,	// mobility,
-								3,	// globalPresence,
-								4,	// toughness,
-								6,	// initiation,
-								8,	// zoneDisplace
-								3	// mercs
+								0,	// shields,
+								7,	// lanePush,
+								5,	// slowRootSilence,
+								9,	// poke,
+								9,	// mobility,
+								1,	// globalPresence,
+								2,	// toughness,
+								2,	// initiation,
+								2,	// zoneDisplace
+								7	// mercs
 							)
 						);
 
@@ -854,21 +854,21 @@
 							ranged,
 							specialist,
 							new StatBlock(
-								6,	// sustainedDamage,
-								4,	// burstDamage,
-								10,	// lockdown,
-								3,	// sustainedHeal,
+								8,	// sustainedDamage,
+								5,	// burstDamage,
+								70,	// lockdown,
+								2,	// sustainedHeal,
 								0,	// burstHeal,
-								3,	// shields,
-								3,	// lanePush,
-								7,	// slowRootSilence,
-								3,	// poke,
-								3,	// mobility,
-								3,	// globalPresence,
+								0,	// shields,
+								10,	// lanePush,
+								8,	// slowRootSilence,
+								9,	// poke,
+								7,	// mobility,
+								1,	// globalPresence,
 								4,	// toughness,
-								6,	// initiation,
-								8,	// zoneDisplace
-								3	// mercs
+								5,	// initiation,
+								7,	// zoneDisplace
+								7	// mercs
 							)
 						);
 
@@ -877,21 +877,21 @@
 							melee,
 							assassin,
 							new StatBlock(
-								6,	// sustainedDamage,
-								4,	// burstDamage,
-								10,	// lockdown,
-								3,	// sustainedHeal,
+								3,	// sustainedDamage,
+								8,	// burstDamage,
+								7,	// lockdown,
+								0,	// sustainedHeal,
 								0,	// burstHeal,
-								3,	// shields,
+								5,	// shields,
 								3,	// lanePush,
-								7,	// slowRootSilence,
-								3,	// poke,
-								3,	// mobility,
-								3,	// globalPresence,
-								4,	// toughness,
-								6,	// initiation,
+								5,	// slowRootSilence,
+								4,	// poke,
+								10,	// mobility,
+								1,	// globalPresence,
+								2,	// toughness,
+								2,	// initiation,
 								8,	// zoneDisplace
-								3	// mercs
+								6	// mercs
 							)
 						);
 
